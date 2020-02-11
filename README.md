@@ -1,3 +1,3 @@
-# docs: hanlon lab documentation
+# lab-docs: hanlon lab documentation
 
 
